@@ -1,4 +1,4 @@
-# Meeting Room Booking App
+ # Meeting Room Booking App
 
 A Flutter application designed to manage and book meeting rooms efficiently. This project was developed as a technical task to demonstrate clean architecture, state management, and API integration.
 
@@ -28,15 +28,15 @@ A Flutter application designed to manage and book meeting rooms efficiently. Thi
 
 2. Navigate to the project folder:
    ```bash
-cd meeting_room_booking
+   cd meeting_room_booking
 
 3. Install dependencies:
    ```bash
-flutter pub get
+   flutter pub get
 
 4. Run the application:
    ```bash
-flutter run
+   flutter run
 
 ⏱️ Approximate Time Spent
 Around 4 to 5 hours (including UI implementation, Bloc logic, and debugging API caching/overlap issues).
