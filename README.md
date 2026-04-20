@@ -24,7 +24,7 @@ A Flutter application designed to manage and book meeting rooms efficiently. Thi
 ## ⚙️ How to Run
 1. Clone the repository:
    ```bash
-   git clone [YOUR_REPOSITORY_URL]
+   git clone [https://github.com/ahmedabdelfatah2020/Meeting-Room-Booking-application]
    
 2. Navigate to the project folder:
    ```bash
@@ -42,6 +42,6 @@ A Flutter application designed to manage and book meeting rooms efficiently. Thi
 Around 4 to 5 hours (including UI implementation, Bloc logic, and debugging API caching/overlap issues).
 
 📄 Deliverables
-GitHub Repo: [Link to your repo]
+GitHub Repo: [[Link to your repo](https://github.com/ahmedabdelfatah2020/Meeting-Room-Booking-application)]
 
 APK File: You can find the latest APK in the Releases section of this repository.
