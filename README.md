@@ -42,6 +42,6 @@ A Flutter application designed to manage and book meeting rooms efficiently. Thi
 Around 4 to 5 hours (including UI implementation, Bloc logic, and debugging API caching/overlap issues).
 
 📄 Deliverables
-GitHub Repo: [[Link to your repo](https://github.com/ahmedabdelfatah2020/Meeting-Room-Booking-application)]
+GitHub Repo: [(https://github.com/ahmedabdelfatah2020/Meeting-Room-Booking-application)]
 
 APK File: You can find the latest APK in the Releases section of this repository.
